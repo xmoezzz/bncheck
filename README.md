@@ -1,1 +1,1 @@
-# BinaryChecker
+# BnChecker
